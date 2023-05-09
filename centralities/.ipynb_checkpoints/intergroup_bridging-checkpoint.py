@@ -10,6 +10,7 @@ Pieter Swart <swart@lanl.gov>
 Bridgeness extensions by
 Matteo Morini <matteo.morini@ens-lyon.fr>
 
+Copyright (C) 2023 by 
 Intergroup Bridging extensions by 
 Jordan K. Kobellarz <jordan@alunos.utfpr.edu.br>
 Miloš Broćić <milos.brocic@mail.utoronto.ca>
@@ -18,7 +19,7 @@ Daniel Silver <dan.silver@utoronto.ca>
 Thiago H. Silva <thiagoh@utfpr.edu.br>
 
 All rights reserved.
-BSD license.
+MIT license.
 """
 
 

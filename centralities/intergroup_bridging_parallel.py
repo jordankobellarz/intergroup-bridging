@@ -2,7 +2,7 @@
 Parallel implementation for Intergroup Bridging algorithm.
 Reference: https://networkx.org/documentation/stable//auto_examples/advanced/plot_parallel_betweenness.html
 
-Copyright (C) 2004-2011 by 
+Copyright (C) 2023 by 
 Jordan K. Kobellarz <jordan@alunos.utfpr.edu.br>
 Miloš Broćić <milos.brocic@mail.utoronto.ca>
 Alexandre R. Graeml <graeml@utfpr.edu.br>
@@ -10,7 +10,7 @@ Daniel Silver <dan.silver@utoronto.ca>
 Thiago H. Silva <thiagoh@utfpr.edu.br>
 
 All rights reserved.
-BSD license.
+MIT license.
 """
 
 from centralities.intergroup_bridging import intergroup_bridging_centrality_subset
