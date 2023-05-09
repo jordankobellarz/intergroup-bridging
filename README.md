@@ -12,7 +12,8 @@ The algorithm was created to work together with NetworkX library, so the usage i
 ```
 from centralities.intergroup_bridging import intergroup_bridging_centrality
 
-results = intergroup_bridging_centrality(G_copy, attr='group')
+G = nx.karate_club_graph()
+results = intergroup_bridging_centrality(G, attr='group')
 ```
 
 Where `attr`refers to the attribute you have chosen to label nodes' groups. 
@@ -26,7 +27,8 @@ We also implemented a faster version using parallel computing for large graphs:
 ```
 from centralities.intergroup_bridging_parallel import intergroup_bridging_centrality_parallel
 
-results = intergroup_bridging_centrality_parallel(G_copy, attr='group', processes=8) 
+G = nx.karate_club_graph()
+results = intergroup_bridging_centrality_parallel(G, attr='group', processes=8) 
 ```
 
 This version partitionate the network in `processes` groups and combine results after Intergroup Bridging calculation.
