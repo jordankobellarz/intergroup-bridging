@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="node" attr.name="degree" attr.type="long"/>
+<key id="d5" for="node" attr.name="bubble_popper" attr.type="double"/>
+<key id="d4" for="node" attr.name="bridgeness" attr.type="double"/>
+<key id="d3" for="node" attr.name="betweenness" attr.type="float"/>
+<key id="d2" for="node" attr.name="id" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="orientation" attr.type="string"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">N</data>
+  <data key="d1">A</data>
+  <data key="d2">A</data>
+  <data key="d3">0.5555555555555556</data>
+  <data key="d4">0.35555555555555557</data>
+  <data key="d5">0.4</data>
+  <data key="d6">2</data>
+</node>
+<node id="B">
+  <data key="d0">N</data>
+  <data key="d1">B</data>
+  <data key="d2">B</data>
+  <data key="d3">0.6</data>
+  <data key="d4">0.11111111111111112</data>
+  <data key="d5">0.2888888888888889</data>
+  <data key="d6">4</data>
+</node>
+<node id="B1">
+  <data key="d0">L</data>
+  <data key="d1">B1</data>
+  <data key="d2">B1</data>
+  <data key="d3">0.08888888888888889</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">3</data>
+</node>
+<node id="B2">
+  <data key="d0">L</data>
+  <data key="d1">B2</data>
+  <data key="d2">B2</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">2</data>
+</node>
+<node id="B3">
+  <data key="d0">L</data>
+  <data key="d1">B3</data>
+  <data key="d2">B3</data>
+  <data key="d3">0.08888888888888889</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">3</data>
+</node>
+<node id="B4">
+  <data key="d0">L</data>
+  <data key="d1">B4</data>
+  <data key="d2">B4</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">1</data>
+</node>
+<node id="C">
+  <data key="d0">R</data>
+  <data key="d1">C</data>
+  <data key="d2">C</data>
+  <data key="d3">0.6</data>
+  <data key="d4">0.11111111111111112</data>
+  <data key="d5">0.12222222222222223</data>
+  <data key="d6">4</data>
+</node>
+<node id="C1">
+  <data key="d0">R</data>
+  <data key="d1">C1</data>
+  <data key="d2">C1</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">1</data>
+</node>
+<node id="C2">
+  <data key="d0">R</data>
+  <data key="d1">C2</data>
+  <data key="d2">C2</data>
+  <data key="d3">0.2</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">3</data>
+</node>
+<node id="C3">
+  <data key="d0">R</data>
+  <data key="d1">C3</data>
+  <data key="d2">C3</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">2</data>
+</node>
+<node id="C4">
+  <data key="d0">R</data>
+  <data key="d1">C4</data>
+  <data key="d2">C4</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+  <data key="d6">1</data>
+</node>
+<edge source="A" target="B"/>
+<edge source="A" target="C"/>
+<edge source="B" target="B1"/>
+<edge source="B" target="B3"/>
+<edge source="B" target="B4"/>
+<edge source="B1" target="B2"/>
+<edge source="B1" target="B3"/>
+<edge source="B2" target="B3"/>
+<edge source="C" target="C1"/>
+<edge source="C" target="C2"/>
+<edge source="C" target="C3"/>
+<edge source="C2" target="C4"/>
+<edge source="C2" target="C3"/>
+</graph></graphml>

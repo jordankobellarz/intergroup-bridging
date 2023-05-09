@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="bridgeness_optimized" attr.type="double"/>
+<key id="d1" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d0" for="node" attr.name="bridgeness_original" attr.type="double"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">16.0</data>
+  <data key="d1">25.0</data>
+  <data key="d2">16.0</data>
+</node>
+<node id="B">
+  <data key="d0">5.0</data>
+  <data key="d1">27.0</data>
+  <data key="d2">5.0</data>
+</node>
+<node id="C">
+  <data key="d0">5.0</data>
+  <data key="d1">27.0</data>
+  <data key="d2">5.0</data>
+</node>
+<node id="B1">
+  <data key="d0">0.0</data>
+  <data key="d1">4.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="B3">
+  <data key="d0">0.0</data>
+  <data key="d1">4.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="B4">
+  <data key="d0">0.0</data>
+  <data key="d1">0.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="B2">
+  <data key="d0">0.0</data>
+  <data key="d1">0.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="C1">
+  <data key="d0">0.0</data>
+  <data key="d1">0.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="C2">
+  <data key="d0">0.0</data>
+  <data key="d1">9.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="C3">
+  <data key="d0">0.0</data>
+  <data key="d1">0.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="C4">
+  <data key="d0">0.0</data>
+  <data key="d1">0.0</data>
+  <data key="d2">0.0</data>
+</node>
+<edge source="A" target="B"/>
+<edge source="A" target="C"/>
+<edge source="B" target="B1"/>
+<edge source="B" target="B3"/>
+<edge source="B" target="B4"/>
+<edge source="C" target="C1"/>
+<edge source="C" target="C2"/>
+<edge source="C" target="C3"/>
+<edge source="B1" target="B2"/>
+<edge source="B1" target="B3"/>
+<edge source="B3" target="B2"/>
+<edge source="C2" target="C4"/>
+<edge source="C2" target="C3"/>
+</graph></graphml>

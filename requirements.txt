@@ -1,0 +1,4 @@
+networkx==2.4
+matplotlib==3.5.1
+numpy==1.19.1
+seaborn

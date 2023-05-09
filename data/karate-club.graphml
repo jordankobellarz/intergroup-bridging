@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="intergroup_bridging" attr.type="float"/>
+<key id="d3" for="node" attr.name="bridgeness" attr.type="float"/>
+<key id="d2" for="node" attr.name="betweenness" attr.type="float"/>
+<key id="d1" for="node" attr.name="club" attr.type="string"/>
+<key id="d0" for="graph" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">Zachary's Karate Club</data>
+<node id="0">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">1.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.7925388396762231</data>
+</node>
+<node id="1">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.04749614791987675</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.08447603911277572</data>
+</node>
+<node id="2">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.19818952234206474</data>
+  <data key="d3">0.5407754010695187</data>
+  <data key="d4">1.0</data>
+</node>
+<node id="3">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="4">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0016178736517719573</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="5">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.05177195685670263</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="6">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.05177195685670263</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="7">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="8">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.007858243451463793</data>
+  <data key="d3">0.8755355551311433</data>
+  <data key="d4">0.8092529100789847</data>
+</node>
+<node id="9">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0036764705882352936</data>
+  <data key="d4">0.005590326117757218</data>
+</node>
+<node id="10">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0016178736517719573</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="11">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="12">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="13">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.6248392538833717</data>
+  <data key="d4">0.5132654192678587</data>
+</node>
+<node id="14">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="15">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="16">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="17">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.05046224961479199</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="18">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="19">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.052580893682588614</data>
+  <data key="d3">0.5685144512350393</data>
+  <data key="d4">0.46502053086317613</data>
+</node>
+<node id="20">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="21">
+  <data key="d1">Mr. Hi</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="22">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="23">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0032357473035439146</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="24">
+  <data key="d1">Officer</data>
+  <data key="d2">0.10354391371340527</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="25">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0016178736517719573</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="26">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="27">
+  <data key="d1">Officer</data>
+  <data key="d2">0.017257318952234212</data>
+  <data key="d3">0.0036764705882352936</data>
+  <data key="d4">0.013269966037100464</data>
+</node>
+<node id="28">
+  <data key="d1">Officer</data>
+  <data key="d2">0.020801232665639453</data>
+  <data key="d3">0.0036764705882352936</data>
+  <data key="d4">0.00943014607742884</data>
+</node>
+<node id="29">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.0</data>
+</node>
+<node id="30">
+  <data key="d1">Officer</data>
+  <data key="d2">0.0026964560862865953</data>
+  <data key="d3">0.14115021008403358</data>
+  <data key="d4">0.17471503490452076</data>
+</node>
+<node id="31">
+  <data key="d1">Officer</data>
+  <data key="d2">0.190100154083205</data>
+  <data key="d3">0.9177672205245735</data>
+  <data key="d4">0.7182293765880691</data>
+</node>
+<node id="32">
+  <data key="d1">Officer</data>
+  <data key="d2">0.23682588597842838</data>
+  <data key="d3">0.007352941176470587</data>
+  <data key="d4">0.04650699586449337</data>
+</node>
+<node id="33">
+  <data key="d1">Officer</data>
+  <data key="d2">0.5833590138674886</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.09445957100792193</data>
+</node>
+<node id="A">
+  <data key="d1">Bubble Reacher</data>
+  <data key="d2">0.6496533127889061</data>
+  <data key="d3">0.8755355551311433</data>
+  <data key="d4">0.7748516139857448</data>
+</node>
+<edge source="0" target="1">
+  <data key="d5">4</data>
+</edge>
+<edge source="0" target="2">
+  <data key="d5">5</data>
+</edge>
+<edge source="0" target="3">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="4">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="5">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="6">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="7">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="8">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="10">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="11">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="12">
+  <data key="d5">1</data>
+</edge>
+<edge source="0" target="13">
+  <data key="d5">3</data>
+</edge>
+<edge source="0" target="17">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="19">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="21">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="31">
+  <data key="d5">2</data>
+</edge>
+<edge source="0" target="A"/>
+<edge source="1" target="2">
+  <data key="d5">6</data>
+</edge>
+<edge source="1" target="3">
+  <data key="d5">3</data>
+</edge>
+<edge source="1" target="7">
+  <data key="d5">4</data>
+</edge>
+<edge source="1" target="13">
+  <data key="d5">5</data>
+</edge>
+<edge source="1" target="17">
+  <data key="d5">1</data>
+</edge>
+<edge source="1" target="19">
+  <data key="d5">2</data>
+</edge>
+<edge source="1" target="21">
+  <data key="d5">2</data>
+</edge>
+<edge source="1" target="30">
+  <data key="d5">2</data>
+</edge>
+<edge source="2" target="3">
+  <data key="d5">3</data>
+</edge>
+<edge source="2" target="7">
+  <data key="d5">4</data>
+</edge>
+<edge source="2" target="8">
+  <data key="d5">5</data>
+</edge>
+<edge source="2" target="9">
+  <data key="d5">1</data>
+</edge>
+<edge source="2" target="13">
+  <data key="d5">3</data>
+</edge>
+<edge source="2" target="27">
+  <data key="d5">2</data>
+</edge>
+<edge source="2" target="28">
+  <data key="d5">2</data>
+</edge>
+<edge source="2" target="32">
+  <data key="d5">2</data>
+</edge>
+<edge source="2" target="A"/>
+<edge source="3" target="7">
+  <data key="d5">3</data>
+</edge>
+<edge source="3" target="12">
+  <data key="d5">3</data>
+</edge>
+<edge source="3" target="13">
+  <data key="d5">3</data>
+</edge>
+<edge source="4" target="6">
+  <data key="d5">2</data>
+</edge>
+<edge source="4" target="10">
+  <data key="d5">3</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d5">5</data>
+</edge>
+<edge source="5" target="10">
+  <data key="d5">3</data>
+</edge>
+<edge source="5" target="16">
+  <data key="d5">3</data>
+</edge>
+<edge source="6" target="16">
+  <data key="d5">3</data>
+</edge>
+<edge source="8" target="30">
+  <data key="d5">3</data>
+</edge>
+<edge source="8" target="32">
+  <data key="d5">3</data>
+</edge>
+<edge source="8" target="33">
+  <data key="d5">4</data>
+</edge>
+<edge source="9" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="13" target="33">
+  <data key="d5">3</data>
+</edge>
+<edge source="14" target="32">
+  <data key="d5">3</data>
+</edge>
+<edge source="14" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="15" target="32">
+  <data key="d5">3</data>
+</edge>
+<edge source="15" target="33">
+  <data key="d5">4</data>
+</edge>
+<edge source="18" target="32">
+  <data key="d5">1</data>
+</edge>
+<edge source="18" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="19" target="33">
+  <data key="d5">1</data>
+</edge>
+<edge source="20" target="32">
+  <data key="d5">3</data>
+</edge>
+<edge source="20" target="33">
+  <data key="d5">1</data>
+</edge>
+<edge source="22" target="32">
+  <data key="d5">2</data>
+</edge>
+<edge source="22" target="33">
+  <data key="d5">3</data>
+</edge>
+<edge source="23" target="25">
+  <data key="d5">5</data>
+</edge>
+<edge source="23" target="27">
+  <data key="d5">4</data>
+</edge>
+<edge source="23" target="29">
+  <data key="d5">3</data>
+</edge>
+<edge source="23" target="32">
+  <data key="d5">5</data>
+</edge>
+<edge source="23" target="33">
+  <data key="d5">4</data>
+</edge>
+<edge source="24" target="25">
+  <data key="d5">2</data>
+</edge>
+<edge source="24" target="27">
+  <data key="d5">3</data>
+</edge>
+<edge source="24" target="31">
+  <data key="d5">2</data>
+</edge>
+<edge source="25" target="31">
+  <data key="d5">7</data>
+</edge>
+<edge source="26" target="29">
+  <data key="d5">4</data>
+</edge>
+<edge source="26" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="27" target="33">
+  <data key="d5">4</data>
+</edge>
+<edge source="28" target="31">
+  <data key="d5">2</data>
+</edge>
+<edge source="28" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="29" target="32">
+  <data key="d5">4</data>
+</edge>
+<edge source="29" target="33">
+  <data key="d5">2</data>
+</edge>
+<edge source="30" target="32">
+  <data key="d5">3</data>
+</edge>
+<edge source="30" target="33">
+  <data key="d5">3</data>
+</edge>
+<edge source="31" target="32">
+  <data key="d5">4</data>
+</edge>
+<edge source="31" target="33">
+  <data key="d5">4</data>
+</edge>
+<edge source="32" target="33">
+  <data key="d5">5</data>
+</edge>
+<edge source="32" target="A"/>
+<edge source="33" target="A"/>
+</graph></graphml>
